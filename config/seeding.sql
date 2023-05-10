@@ -1,0 +1,1 @@
+INSERT INTO users (name, email, email_verified_at, password, customer_id, role, created_at, updated_at, opt_in) VALUE ('jean jacque', "jj@gmail.com", "2022-10-05 14:11:51", 'salut', 'cus_43294832', 1, "2022-09-28 10:32:14", "2022-09-28 10:32:14", 1)
